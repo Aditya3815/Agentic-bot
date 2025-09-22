@@ -21,16 +21,8 @@ This project implements a sophisticated AI chatbot using agentic AI patterns wit
 - **Language**: Python
 - **IDE**: VS Code
 
-## 📋 Features
-
-- 🤖 Agentic AI with ReAct (Reasoning and Acting) patterns
-- 🔍 Integrated search tool functionality via Tavily
-- 🌐 RESTful API with FastAPI
-- 💻 Interactive web interface with Streamlit
-- 🔧 Multiple LLM provider support
-- 📝 Schema validation with Pydantic
-- 📚 Comprehensive Swagger UI documentation
-- 🎛️ Configurable model providers and system prompts
+## Tech. Arch.
+![Architecture Diagram](https://github.com/Aditya3815/Agentic-bot/blob/main/Screenshot%202025-09-22%20152909.png)
 
 ## 🏗️ Project Structure
 
